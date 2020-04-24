@@ -4,7 +4,7 @@ BODY
     width: 100%;
     padding: 0;
     margin: 0;
-    background-color: #1b4076;
+    background-color: #681b1b;
 }
 
 @media screen and (min-device-width: 500px) and (min-device-height: 1024px)
@@ -35,7 +35,7 @@ BODY
     padding: 25px;
     margin: 0 auto;
     position: relative;
-    background-image: url(background.png);
+    background-image: url(background-red.png);
     background-size: 300px 531px;
     background-repeat: no-repeat;
     background-position: center top;
